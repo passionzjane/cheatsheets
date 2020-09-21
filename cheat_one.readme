@@ -1,0 +1,2 @@
+## Run heroku bash 
+heroku run bash --app [APP_NAME]
